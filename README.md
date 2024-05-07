@@ -3,6 +3,8 @@
 <p align="center">
 A SQL database engine written in JavaScript
 
+
+
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/ChakshuGautam/stylusdb-sql)
 [![GitHub Repo](https://img.shields.io/github/stars/ChakshuGautam/stylusdb-sql?style=social)](https://github.com/ChakshuGautam/stylusdb-sql)
 </p>
